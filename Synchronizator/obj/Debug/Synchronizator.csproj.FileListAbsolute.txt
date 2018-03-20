@@ -1,5 +1,0 @@
-C:\Users\student\Desktop\Synchronizator\Synchronizator\bin\Debug\Synchronizator.exe
-C:\Users\student\Desktop\Synchronizator\Synchronizator\bin\Debug\Synchronizator.pdb
-C:\Users\student\Desktop\Synchronizator\Synchronizator\obj\Debug\Synchronizator.csprojResolveAssemblyReference.cache
-C:\Users\student\Desktop\Synchronizator\Synchronizator\obj\Debug\Synchronizator.exe
-C:\Users\student\Desktop\Synchronizator\Synchronizator\obj\Debug\Synchronizator.pdb
